@@ -1,2 +1,2 @@
 # program5
-hello world
+hi world
